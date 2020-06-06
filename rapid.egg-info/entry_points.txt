@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        rapid=rapid.cli:start
+    

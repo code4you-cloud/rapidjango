@@ -1,0 +1,7 @@
+setup.py
+rapid.egg-info/PKG-INFO
+rapid.egg-info/SOURCES.txt
+rapid.egg-info/dependency_links.txt
+rapid.egg-info/entry_points.txt
+rapid.egg-info/requires.txt
+rapid.egg-info/top_level.txt

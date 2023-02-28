@@ -1,5 +1,4 @@
 
----
 # rapidjango
 
 [![codecov](https://codecov.io/gh/code4you-cloud/rapidjango/branch/main/graph/badge.svg?token=rapidjango_token_here)](https://codecov.io/gh/code4you-cloud/rapidjango)
